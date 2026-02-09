@@ -1,7 +1,0 @@
---Java SDK 10+ (version 10 veya üstü) kurulacak
---Intellij IDEA (Community veya ultimate) kurulacak
-
-
-psvm --> main method açarken
-sout --> println kısa yolu
-ctrl + alt + l --> ctrl +a ile tüm kodu seçtikten sonra düzenler
