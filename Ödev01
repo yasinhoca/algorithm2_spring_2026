@@ -1,0 +1,20 @@
+Araştırma ödevleri:
+1. Java'da primitive tipler ve reference tipler nelerdir?
+2. Byte, short, int, long, float, double, char, boolean tiplerini araştıralım.
+3. Java'da unboxing ve autoboxing olaylarını araştırınız.
+4. Aşağıdaki yazılım mimarilerini araştıralım, okuma yaptıktan sonra kendi cümlelerimiz ve şekillerimizle anlatalım:
+-Monolithic architecture
+-Microservice  architecture
+-Layered  architecture
+-Event Driven  architecture
+-Micro Kernel  architecture
+-Space-Based  architecture
+-Serverless  architecture
+-Service-Oriented  architecture (Soa)
+-Clean  architecture
+-Domain-Driven Design  architecture
+-CQRS-Event sourcing  architecture
+-Hexagonal ports and adapters  architecture
+5. Kod ödevi: 20 eleman barındıracak boş bir dizi tanımlayalım, 0 ile 10000 arasında bir sayı üretelim, eğer sayı asalsa bunu bir diziye ekleyelim. Program çalıştığında dizimizde 20 tane asal sayı olacak!. Kod ödevlerini kendiniz yazmaya çalışınız, yazdığınız yere kadar satır satır açıklayınız. Ardından programı yapay zekaya yazdırınız? Kendi yaklaşımınız ve onun yaklaşımını karşılaştırınız. (kodu tam yazan arkadaşlar da yapay zekanın yazdığı programla kendi yaklaşaımını karşılaştırsın) Yaklaşım farklarını veya neden çözemediğinizi yazınız.
+
+Araştırma ödevleri hakkında araştırma ve okuma yapalım. Kendi cümlelerimizle anladığımızı yazalım. Ödevler elle a4 kağıtlara yazılacaktır. Vize sınavının %25'i bu ödevlerden gelen puanlarla oluşacaktır. Kopya, çalıntı, kapkaç, baştan savma ödevler kabul edilmeycektir. Ödevler şeffaf dosya ile 23.02.2026 ödev saatinde teslim edilecektir. Geç gelen ödevler kabul edilmez!.
