@@ -16,9 +16,13 @@ Kod Ödevleri<br>
 3. Sıfır ve yüz arasında rastgele sayılardan oluşan 20 elemanlı bir liste oluşturunuz. <br>
 Liste içindeki "artarak devam eden en uzun alt diziyi" bulup yeni bir listeye, aktarınız. <br>
 <img src="https://github.com/yasinhoca/algorithm2_spring_2026/blob/main/odev2-kod1.gif" style="width:75%">
+<br><br>
+4. Bir banka ATM'si 50,100 ve 200 tl'lik banknotları kasasında tutmaktadır. Minimum 50 tl ve Maksimum 10000 tl çekilebilmektedir.<br>
+ATM'nin istenilen parayı en az banknotla vereceği programı yazınız?
+<img src="https://github.com/yasinhoca/algorithm2_spring_2026/blob/main/odev2-kod2.gif" style="width:75%>
 
-
-
+<br><br>
+Ödevler elle yazılacaktır. Kod ödevlerini kendiniz yazmaya çalışınız, yazdığınız yere kadar satır satır açıklayınız. Ardından programı yapay zekaya yazdırınız? Kendi yaklaşımınız ve onun yaklaşımını karşılaştırınız. (kodu tam yazan arkadaşlar da yapay zekanın yazdığı programla kendi yaklaşaımını karşılaştırsın) Yaklaşım farklarını veya neden çözemediğinizi yazınız.<br>
  Ödevler 9 Mart 2026 Pazartesi günü ders saatinde olacaktır.<br>
   Ödevlerin hızlı kontrol edilebilmesi için, *mavi plastik kapaklı dosya içine her sayfa ayrı şeffaf dosyalara konulacak.<br>
   "Ödev kapağı şablonu" repisitory içinde <a href="https://github.com/yasinhoca/algorithm2_spring_2026/blob/main/kapak.docx" >kapak.docx</a> olarak bulunabilir.<br>
