@@ -15,7 +15,7 @@
 Kod Ödevleri<br>
 3. Sıfır ve yüz arasında rastgele sayılardan oluşan 20 elemanlı bir liste oluşturunuz. <br>
 Liste içindeki "artarak devam eden en uzun alt diziyi" bulup yeni bir listeye, aktarınız. <br>
-<img src="https://github.com/yasinhoca/algorithm2_spring_2026/blob/main/odev2-kod1.gif">
+<img src="https://github.com/yasinhoca/algorithm2_spring_2026/blob/main/odev2-kod1.gif" style="width:75%">
 
 
 
