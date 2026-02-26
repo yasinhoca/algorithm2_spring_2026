@@ -13,3 +13,13 @@
   (Ödevin bu kısmı önemli, sizin yorumlarınız önemli)<br><br>
 
 
+
+
+ Ödevler 9 Mart 2026 Pazartesi günü ders saatinde olacaktır.<br>
+  Ödevlerin hızlı kontrol edilebilmesi için, *mavi plastik kapaklı dosya içine her sayfa ayrı şeffaf dosyalara konulacak.<br>
+  "Ödev kapağı şablonu" repisitory içinde <a href="https://github.com/yasinhoca/algorithm2_spring_2026/blob/main/kapak.docx" >kapak.docx</a> olarak bulunabilir.<br>
+  İlgili dosyalar classrooma da yüklenecek oradan da temin edebilirsiniz<br><br>
+  *Mavi kapaklı dosya :<br>
+  <img src="https://github.com/yasinhoca/web_programming_26/blob/main/maviDosya.jpg" style="width:25%">
+
+
