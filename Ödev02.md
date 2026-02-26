@@ -19,7 +19,7 @@ Liste içindeki "artarak devam eden en uzun alt diziyi" bulup yeni bir listeye, 
 <br><br>
 4. Bir banka ATM'si 50,100 ve 200 tl'lik banknotları kasasında tutmaktadır. Minimum 50 tl ve Maksimum 10000 tl çekilebilmektedir.<br>
 ATM'nin istenilen parayı en az banknotla vereceği programı yazınız?
-<img src="https://github.com/yasinhoca/algorithm2_spring_2026/blob/main/odev2-kod2.gif" style="width:75%>
+<img src="https://github.com/yasinhoca/algorithm2_spring_2026/blob/main/odev2-kod2.gif" style="width:75%">
 
 <br><br>
 Ödevler elle yazılacaktır. Kod ödevlerini kendiniz yazmaya çalışınız, yazdığınız yere kadar satır satır açıklayınız. Ardından programı yapay zekaya yazdırınız? Kendi yaklaşımınız ve onun yaklaşımını karşılaştırınız. (kodu tam yazan arkadaşlar da yapay zekanın yazdığı programla kendi yaklaşaımını karşılaştırsın) Yaklaşım farklarını veya neden çözemediğinizi yazınız.<br>
