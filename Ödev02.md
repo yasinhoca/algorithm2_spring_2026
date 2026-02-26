@@ -23,7 +23,7 @@ ATM'nin istenilen parayı en az banknotla vereceği programı yazınız?
 
 <br><br>
 Ödevler elle yazılacaktır. Kod ödevlerini kendiniz yazmaya çalışınız, yazdığınız yere kadar satır satır açıklayınız. Ardından programı yapay zekaya yazdırınız? Kendi yaklaşımınız ve onun yaklaşımını karşılaştırınız. (kodu tam yazan arkadaşlar da yapay zekanın yazdığı programla kendi yaklaşaımını karşılaştırsın) Yaklaşım farklarını veya neden çözemediğinizi yazınız.<br>
- Ödevler 9 Mart 2026 Pazartesi günü ders saatinde olacaktır.<br>
+ Ödevler 9 Mart 2026 Pazartesi günü ders saatinde toplanacaktır.<br>
   Ödevlerin hızlı kontrol edilebilmesi için, *mavi plastik kapaklı dosya içine her sayfa ayrı şeffaf dosyalara konulacak.<br>
   "Ödev kapağı şablonu" repisitory içinde <a href="https://github.com/yasinhoca/algorithm2_spring_2026/blob/main/kapak.docx" >kapak.docx</a> olarak bulunabilir.<br>
   İlgili dosyalar classrooma da yüklenecek oradan da temin edebilirsiniz<br><br>
