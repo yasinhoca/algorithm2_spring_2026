@@ -21,32 +21,32 @@ d. if bloğu ->  if (sayi % 2 == 0 || sayi>5) şeklinde değiştirilirse ne olur
 
 Süre 35 dakikadır. Başarılar.<br><br>
 
-CEVAPLAR
-1. Sorunun cevapları:
-a) Casting, bir veri tipini başka bir veri tipine dönüştürme işlemidir.Java’da veri tipleri arasında uyum sağlamak için kullanılır.
-b) float yasin = 3.14f;  (Burada dikkat etmeniz gereken adınızda Türkçe karakter varsa, kullanmamanız gerekiyor, örnek olarak isminiz Gülçin ise float gulcin = (float) 3.14; şeklinde yazmalısınız. Float değişkenler de 3.14 sonuna f koyarak da casting yapılabilir.)
-c) Çalışır, değer 3 olur. Float’tan int’e dönüşümde ondalık kısım atılır (kesilir). Yuvarlama yapılmaz.
+CEVAPLAR<br>
+1. Sorunun cevapları:<br>
+a) Casting, bir veri tipini başka bir veri tipine dönüştürme işlemidir.Java’da veri tipleri arasında uyum sağlamak için kullanılır.<br>
+b) float yasin = 3.14f;  (Burada dikkat etmeniz gereken adınızda Türkçe karakter varsa, kullanmamanız gerekiyor, örnek olarak isminiz Gülçin ise float gulcin = (float) 3.14; şeklinde yazmalısınız. Float değişkenler de 3.14 sonuna f koyarak da casting yapılabilir.)<br>
+c) Çalışır, değer 3 olur. Float’tan int’e dönüşümde ondalık kısım atılır (kesilir). Yuvarlama yapılmaz.<br>
 
-2. Sorunun cevapları:
-a) Kendisine gönderilen sayı 5'den büyük ve çift sayı ise true değilse false döndürmektedir.
-b) Dönüş tipi boolean, giriş tipi integer'dır
-c) True döndürür
-d) Burada sayı çift veya beşten büyükse her zaman true döndürür. Şartlardan birinin sağlanması yeterlidir.
-Sırası ile:
-ef(2) -> true (çift şartı sağlanmış)
-ef(3) -> false (çift şartı da 5'ten büyük olma şartı da sağalnmıyor)
-ef(5) -> false ()
-ef(7) -> true  döndürür.
+2. Sorunun cevapları:<br>
+a) Kendisine gönderilen sayı 5'den büyük ve çift sayı ise true değilse false döndürmektedir.<br>
+b) Dönüş tipi boolean, giriş tipi integer'dır<br>
+c) True döndürür<br>
+d) Burada sayı çift veya beşten büyükse her zaman true döndürür. Şartlardan birinin sağlanması yeterlidir.<br>
+Sırası ile:<br>
+ef(2) -> true (çift şartı sağlanmış)<br>
+ef(3) -> false (çift şartı da 5'ten büyük olma şartı da sağalnmıyor)<br>
+ef(5) -> false ()<br>
+ef(7) -> true  döndürür.<br><br>
 
-3. Sorunun cevabı :
-public static String tersCevir(String str) {     
-    String ters = "";
+3. Sorunun cevabı :<br>
+public static String tersCevir(String str) {<br>     
+    String ters = "";<br><br>
    
-    for (int i = str.length() - 1; i >= 0; i--) {
-        ters += str.charAt(i);
-    }
+    for (int i = str.length() - 1; i >= 0; i--) {<br>
+        ters += str.charAt(i);<br>
+    }<br><br>
    
-    return ters;
-}
+    return ters;<br>
+}<br>
 
 
