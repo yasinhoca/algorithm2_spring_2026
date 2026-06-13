@@ -1,25 +1,25 @@
 Bütünleme sınavına kod yazarak (ve anlayarak) çalışırsanız zorlanmazsınız. Sorular "ortalama bir öğrenci" için kolaylıkla yapılabilecek nitelikte olacaktır. Sınavda teorik bilgi, yorumlama, kod okuma/tamamlama, kod yazma soruları olacaktır. Aşağıda örnek sorular ve cevapları bulunmaktadır. Gerçek bir benchmark için soruları önce kendiniz cevaplayın sonra benim cavaplarıma bakın. (Örnek sorular sınavda çıkmayacaktır!.....)
 
 Algoritma ve Programlama 2 Dersi Bütünleme Sınavı
-1. Aşağıdaki soruları kısaca cevaplayınız. (30 Puan)
-    a) Casting nedir?
-    b) Kendi adınızı, değişken adı olarak kullanarak, float değişken tanımlayın ve içerisine 3.14 değerini atayınız?
-    c) int sayi = (int) 3.99f; kodu çalışır mı? Çalışırsa sayi değişkeninin değeri ne olur?
+1. Aşağıdaki soruları kısaca cevaplayınız. (30 Puan)<br>
+    a) Casting nedir?<br>
+    b) Kendi adınızı, değişken adı olarak kullanarak, float değişken tanımlayın ve içerisine 3.14 değerini atayınız?<br>
+    c) int sayi = (int) 3.99f; kodu çalışır mı? Çalışırsa sayi değişkeninin değeri ne olur?<br><br>
 
-2. Aşağıdaki kodu inceleyiniz ve soruları cevaplayınız? (40 Puan)
+2. Aşağıdaki kodu inceleyiniz ve soruları cevaplayınız? (40 Puan)<br>
 
 public static boolean ef(int sayi) {
     if (sayi % 2 == 0 && sayi>5) return true; else return false;
     }
 
-a. Method ne yapmaktadır?
-b. Dönüş tipi ve giriş tipi nedir?
-c. ef() methodu main method içinden ef(8) olarak çağrılırsa ne return edilir?
-d. if bloğu ->  if (sayi % 2 == 0 || sayi>5) şeklinde değiştirilirse ne olur açıklayınız? Sırası ile main method içerisinden ef(2), ef(3), ef(5) ve ef(7) sayıları çağrılırsa çıktılar ne olur
+a. Method ne yapmaktadır?<br>
+b. Dönüş tipi ve giriş tipi nedir?<br>
+c. ef() methodu main method içinden ef(8) olarak çağrılırsa ne return edilir?<br>
+d. if bloğu ->  if (sayi % 2 == 0 || sayi>5) şeklinde değiştirilirse ne olur açıklayınız? Sırası ile main method içerisinden ef(2), ef(3), ef(5) ve ef(7) sayıları çağrılırsa çıktılar ne olur<br><br>
 
 3. Kendisine gönderilen string ifadeyi tersten yazarak return eden methodu yazınız? (30 Puan)(class, main method bunları istemiyoruz sadece işlemi yapacak olan method yazılacak. Eğer sınav sorusunda main method lazımsa yalnızca main() {//kodlar} şeklinde yazmanız yeterlidir)
 
-Süre 35 dakikadır. Başarılar.
+Süre 35 dakikadır. Başarılar.<br><br>
 
 CEVAPLAR
 1. Sorunun cevapları:
